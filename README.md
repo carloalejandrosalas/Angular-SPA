@@ -1,6 +1,17 @@
-# Spa
+# Angular Single Page App
+This project was redone from other project mine in github name [Angular-App](https://github.com/carloalejandrosalas/angular-app), because the version of the other project was too old. Now 
+this project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+# About this app
+In this project you can navigate between pages with no-reload from navigator, all the resources are download once. 
+
+# Resources used in this project
+* Bootstrap 4
+* Router by Angular
+* Images of heroes of Marvel and DC
+* Pipes
+* Services
+* And obviously components... 
 
 ## Development server
 
